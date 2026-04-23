@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/var/lib/jenkins/workspace/maven-intergration/CI-CD/target/webapp-1.0-SNAPSHOT'
+let g:netrw_dirhist_2='/var/lib/jenkins/workspace/maven-intergration/CI-CD/webapp'
+let g:netrw_dirhist_1='/var/lib/jenkins/workspace/maven-intergration/CI-CD/target/webapp-1.0-SNAPSHOT'
